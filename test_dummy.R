@@ -1,4 +1,3 @@
-setwd(getSrcDirectory(function(x) {x}))
 source('dummy_script.R')
 
 context('testing data integrity')
